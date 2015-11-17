@@ -1,0 +1,2 @@
+# typeclassopedia
+Typeclassopedia Exercises
