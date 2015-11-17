@@ -2,7 +2,7 @@ name:                typeclassopedia
 version:             0.1.0.0
 synopsis:            Simple project template from stack
 description:         Please see README.md
-homepage:            http://github.com/githubuser/typeclassopedia#readme
+homepage:            http://github.com/jvrdev/typeclassopedia#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Author name here
@@ -17,3 +17,4 @@ executable typeclassopedia
   main-is:             Main.hs
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5
+  other-modules:       TcopFunctor
